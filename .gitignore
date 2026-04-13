@@ -26,3 +26,10 @@ npm-debug.log*
 
 # Lock file (optional - uncomment if you want to ignore)
 # package-lock.json
+
+# Engineering docs (Claude Code, planning, etc.)
+CLAUDE.md
+PROGRESS.md
+EVALUATION.md
+SPEC.md
+task_list.md
