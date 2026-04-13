@@ -4,6 +4,8 @@
 
 ![FormatLab](https://img.shields.io/badge/FormatLab-Tools-gold?style=for-the-badge)
 
+[English](README.md)
+
 ## 功能特点
 
 - **50+ 工具** 覆盖 6 大分类

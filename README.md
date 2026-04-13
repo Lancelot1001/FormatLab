@@ -4,6 +4,8 @@ A curated collection of popular online format conversion tools, beautifully orga
 
 ![FormatLab](https://img.shields.io/badge/FormatLab-Tools-gold?style=for-the-badge)
 
+[简体中文](README_zh.md)
+
 ## Features
 
 - **50+ Tools** across 6 categories
