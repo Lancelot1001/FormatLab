@@ -6,7 +6,7 @@ A curated collection of popular online format conversion tools, beautifully orga
 
 ## Features
 
-- **30+ Tools** across 6 categories
+- **50+ Tools** across 6 categories
 - **Fuzzy Search** with instant results
 - **Bilingual** - English and Chinese
 - **Dark Theme** with glassmorphism design

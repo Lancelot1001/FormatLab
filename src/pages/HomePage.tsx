@@ -61,7 +61,7 @@ export default function HomePage() {
               transition={{ duration: 0.5, delay: 0.2 }}
             >
               <div className="text-center">
-                <div className="text-3xl sm:text-4xl font-bold gradient-text">30+</div>
+                <div className="text-3xl sm:text-4xl font-bold gradient-text">50+</div>
                 <div className="text-sm text-text-muted">
                   {currentLanguage === 'zh' ? '格式工具' : 'Format Tools'}
                 </div>

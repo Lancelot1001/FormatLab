@@ -4,8 +4,8 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Globe, Check } from 'lucide-react';
 
 const languages = [
-  { code: 'zh' as const, label: '中文', flag: 'CN' },
   { code: 'en' as const, label: 'English', flag: 'EN' },
+  { code: 'zh' as const, label: '中文', flag: 'CN' },
 ];
 
 export default function LanguageSwitch() {

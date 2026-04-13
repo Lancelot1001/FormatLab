@@ -10,13 +10,11 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2 text-text-muted text-sm">
             <span>{t('footer.copyright')}</span>
-            <span className="flex items-center gap-1">
-              Made with <Heart className="w-3.5 h-3.5 text-red-500" fill="currentColor" />
-            </span>
+            <span>Made with Lancelot1001 ❤️</span>
           </div>
 
           <a
-            href="https://github.com"
+            href="https://github.com/Lancelot1001/FormatLab.git"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-3 py-2 rounded-glass glass hover:bg-white/10 transition-colors text-text-secondary hover:text-text-primary"
