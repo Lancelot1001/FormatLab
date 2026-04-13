@@ -1,0 +1,39 @@
+{
+  "app": {
+    "name": "FormatLab",
+    "description": "Format tools hub"
+  },
+  "header": {
+    "searchPlaceholder": "Search tools..."
+  },
+  "categories": {
+    "all": "All",
+    "image": "Image",
+    "document": "Document",
+    "video": "Video",
+    "audio": "Audio",
+    "compression": "Compression",
+    "dev": "Developer"
+  },
+  "search": {
+    "placeholder": "Search tools...",
+    "noResults": "No tools found",
+    "noResultsHint": "Try different keywords or browse categories"
+  },
+  "favorite": {
+    "add": "Add to favorites",
+    "remove": "Remove from favorites"
+  },
+  "toolCard": {
+    "popular": "Popular",
+    "visit": "Visit"
+  },
+  "footer": {
+    "copyright": "FormatLab",
+    "github": "GitHub"
+  },
+  "empty": {
+    "title": "No tools found",
+    "description": "Try different keywords or browse categories"
+  }
+}
