@@ -4,7 +4,7 @@
 
 ![FormatLab](https://img.shields.io/badge/FormatLab-Tools-gold?style=for-the-badge)
 
-[WEB](https://format-lab.vercel.app/)
+[WEB](https://fomatlab.9328472.xyz/)
 
 [English](README.md)
 
