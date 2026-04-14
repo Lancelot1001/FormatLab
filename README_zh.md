@@ -4,6 +4,8 @@
 
 ![FormatLab](https://img.shields.io/badge/FormatLab-Tools-gold?style=for-the-badge)
 
+[WEB](https://format-lab.vercel.app/)
+
 [English](README.md)
 
 ## 功能特点
